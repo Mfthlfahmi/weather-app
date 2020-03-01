@@ -13,11 +13,20 @@ body {
     align-items: center;
 }
 
+h1 {
+    font-family: sans-serif;
+}
 
 h2 {
-    font-size: 27px;
+    font-size: 22px;
     font-family: sans-serif;
     padding: 5px 0;
+    font-weight: bold;
+}
+
+h2.summary {
+    font-weight: 100;
+
 }
 
 /* main */
